@@ -1,0 +1,2 @@
+# Inheritance
+Project latihan inheritance
