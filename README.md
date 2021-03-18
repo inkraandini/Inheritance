@@ -8,7 +8,7 @@ hanya bisa diakses oleh class anaknya yaitu class Kedua.
 
 <h2>Latihan 2</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111560761-c8acb180-87c5-11eb-97c1-11a82344aae7.png">
-Pada Project Latihan 2, embuat class Person sebagai class induk yang memiliki variabel (dibungkus protected)
+Pada Project Latihan 2, membuat class Person sebagai class induk yang memiliki variabel (dibungkus protected)
 nama dan usia serta method yang diturunkan kepada class anak yaitu class Employe dengan ditambahi variabel noKaryawan. 
 Kemudian class anak dipanggil di konstruktorSuperClass, sehingga keluar output tersebut.
 
