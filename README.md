@@ -32,21 +32,21 @@ Pada Project Tugas Praktikum,
 
 
 <h1>Kesimpulan</h1>
-Inheritance atau Pewarisan/Penurunan adalah konsep pemrograman dimana sebuah class dapat ‘menurunkan’ property dan 
+<p>Inheritance atau Pewarisan/Penurunan adalah konsep pemrograman dimana sebuah class dapat ‘menurunkan’ property dan 
 method yang dimilikinya kepada class lain. Konsep inheritance digunakan untuk memanfaatkan fitur ‘code reuse’ untuk 
-menghindari duplikasi kode program.
+menghindari duplikasi kode program.</P>
 
-Konsep inheritance membuat sebuah struktur atau ‘hierarchy’ class dalam kode program. Class yang akan ‘diturunkan’ 
+<p>Konsep inheritance membuat sebuah struktur atau ‘hierarchy’ class dalam kode program. Class yang akan ‘diturunkan’ 
 bisa disebut sebagai class induk (parent class), super class, atau base class. Sedangkan class yang ‘menerima penurunan’ 
-bisa disebut sebagai class anak (child class), sub class, derived class atauheir class.
+bisa disebut sebagai class anak (child class), sub class, derived class atauheir class.</p>
 
-Tidak semua property dan method dari class induk akan diturunkan. Property dan method dengan hak akses private, tidak 
+<p>Tidak semua property dan method dari class induk akan diturunkan. Property dan method dengan hak akses private, tidak 
 akan diturunkan kepada class anak. Hanya property dan method dengan hak akses protected dan public saja yang bisa 
-diakses dari class anak.
+diakses dari class anak.</p>
 
 <h4>ISTILAH INHERITANCE</h4>
-<b>Extends</b>   -->   Keyword ini harus kita tambahkan pada definisi class yang menjadi subclass.
-Superclass    -->   Superclass digunakan untuk menunjukkan hirarki class yang berarti class dasar dari subclass/class anak.
-Subclass    -->   Subclass adalah class anak atau turunan secara hirarki dari superclass.
-Super   -->   Keyword ini digunakan untuk memanggil konstruktor dari superclass atau menjadi variabel yang mengacu pada superclass.
-Methode Overriding    -->   Pendefinisian ulang method yang sama pada subclass
+<b>Extends</b>   -->   Keyword ini harus kita tambahkan pada definisi class yang menjadi subclass. <br>
+<b>Superclass</b>    -->   Superclass digunakan untuk menunjukkan hirarki class yang berarti class dasar dari subclass/class anak. <br>
+<b>Subclass</b>    -->   Subclass adalah class anak atau turunan secara hirarki dari superclass. <br>
+<b>Super</b>   -->   Keyword ini digunakan untuk memanggil konstruktor dari superclass atau menjadi variabel yang mengacu pada superclass.<br>
+<b>Methode Overriding</b>    -->   Pendefinisian ulang method yang sama pada subclass. <br>
