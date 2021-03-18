@@ -24,12 +24,15 @@ Pada Project Latihan 5,
 
 <h2>Latihan 6</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111560990-48d31700-87c6-11eb-96a5-2e2c1990f060.png">
-Pada Project Latihan 6,
+Pada Project Latihan 6, menggunakan method Overloading yang merupakan sebuah method yang bisa dideklarasikan 
+dengan nama yang sama, asal parameter yang digunakan berbeda, baik dari jumlahnya, tipe datanya, atau urutan dari parameternya.
 
 
 <h2>Tugas Praktikum</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111561184-9cddfb80-87c6-11eb-936c-b02aa0d8636e.png">
-Pada Project Tugas Praktikum,
+Pada Project Tugas Praktikum, membuat class Person sebagai class induk yang memiliki variabel (dibungkus protected)
+nama, NIK, dan tahunLahir yang diturunkan kepada class anak yaitu class Karyawan dengan ditambahi variabel tahunMasuk, 
+tahunIni ,gaji. Kemudian class anak dipanggil di class testKaryawan, sehingga keluar output tersebut.
 
 
 <h1>Kesimpulan</h1>
