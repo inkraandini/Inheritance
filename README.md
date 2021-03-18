@@ -8,19 +8,21 @@ hanya bisa diakses oleh class anaknya yaitu class Kedua.
 
 <h2>Latihan 2</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111560761-c8acb180-87c5-11eb-97c1-11a82344aae7.png">
-Pada Project Latihan 2, 
+Pada Project Latihan 2, embuat class Person sebagai class induk yang memiliki variabel (dibungkus protected)
+nama dan usia serta method yang diturunkan kepada class anak yaitu class Employe dengan ditambahi variabel noKaryawan. 
+Kemudian class anak dipanggil di konstruktorSuperClass, sehingga keluar output tersebut.
 
 <h2>Latihan 3</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111560840-f85bb980-87c5-11eb-9286-531b74638eff.png">
-Pada Project Latihan 3,
+Pada Project Latihan 3, class Hewan menurunkan method ke class gajah. Di akhir progam method tersebut dipanggil dari 
+class gajah.
 
 <h2>Latihan 4</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111560882-0f9aa700-87c6-11eb-8093-b6f2f0cf365c.png">
-Pada Project Latihan 4,
+Pada Project Latihan 4, terdapat class A yang menggunakan method setter getter yang diturunkan ke class B.
 
 <h2>Latihan 5</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111560954-35c04700-87c6-11eb-89ac-31ddc372b3b3.png">
-Pada Project Latihan 5,
 
 <h2>Latihan 6</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111560990-48d31700-87c6-11eb-96a5-2e2c1990f060.png">
@@ -31,7 +33,7 @@ dengan nama yang sama, asal parameter yang digunakan berbeda, baik dari jumlahny
 <h2>Tugas Praktikum</h2>
 <img src = "https://user-images.githubusercontent.com/68726459/111561184-9cddfb80-87c6-11eb-936c-b02aa0d8636e.png">
 Pada Project Tugas Praktikum, membuat class Person sebagai class induk yang memiliki variabel (dibungkus protected)
-nama, NIK, dan tahunLahir yang diturunkan kepada class anak yaitu class Karyawan dengan ditambahi variabel tahunMasuk, 
+nama, NIK, dan tahunLahir serta method yang diturunkan kepada class anak yaitu class Karyawan dengan ditambahi variabel tahunMasuk, 
 tahunIni ,gaji. Kemudian class anak dipanggil di class testKaryawan, sehingga keluar output tersebut.
 
 
